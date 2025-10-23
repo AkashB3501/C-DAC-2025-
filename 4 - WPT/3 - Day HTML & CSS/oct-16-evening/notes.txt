@@ -1,0 +1,33 @@
+color
+font-size
+font-family
+background
+width height
+margin 
+padding
+border-color: black;
+    border-style: solid;
+    border-width: 10px;
+
+selector:event-name{
+
+}
+background: url(relativepath)
+background-image: url(relativepath)
+
+keyframes
+
+
+display: block | inline | none
+block: element will always displayed in the new line
+inline: in the same line
+none: hide the element
+
+
+
+
+
+
+
+
+

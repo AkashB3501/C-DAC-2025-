@@ -1,0 +1,46 @@
+display: inline prevents the div to get the custom width and height
+
+
+
+JavaScript:
+To execute logics on the browser
+
+
+with html and css the page will be static only
+
+For JS everything is an object: including ui elements, and values which are in js logic 
+
+<script>
+
+</script>
+
+document: it is an implicit object (already defined and developer need not to define it manually) that represents the entire web page
+
+using document object we can perform any operation on the web page
+
+document.write("hello world")
+
+document.write("hello world");
+        document.write("<h1>Heading text</h1>");
+
+
+every browser comes with a JS engine i.e. the interpreter for the js code 
+chrome: V8 engine
+mozilla: spider monkey engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
